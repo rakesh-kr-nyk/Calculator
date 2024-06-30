@@ -19,6 +19,7 @@ body{
 }
 
 .calculator {
+    width: 350px;
     background-color: #252B38;
     border-radius: 60px;
     display: flex;
