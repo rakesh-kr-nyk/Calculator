@@ -19,8 +19,6 @@ body{
 }
 
 .calculator {
-    height: 80vh;
-    width: 50vh;
     background-color: #252B38;
     border-radius: 60px;
     display: flex;
