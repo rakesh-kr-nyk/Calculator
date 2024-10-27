@@ -3,7 +3,6 @@ const buttons = document.querySelectorAll("button");
 let string = "";
 let arry = Array.from(buttons);
 
-// Add a click event listener to each button
 arry.forEach(button => {
     button.addEventListener("click", (e) => {
         if (e.target.innerText == "=") {

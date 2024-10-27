@@ -78,6 +78,7 @@ button {
   .calculator {
     padding: 15px;
     border-radius: 30px;
+    max-width: 70%;
   }
 
   button {
@@ -95,7 +96,7 @@ button {
 @media (max-width: 400px) {
   .calculator {
     padding: 10px;
-    max-width: 90%;
+    max-width: 70%;
   }
 
   button {
